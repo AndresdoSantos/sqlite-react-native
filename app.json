@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "rn_sqlite",
+    "slug": "rn_sqlite",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
